@@ -1,0 +1,9 @@
+p.pubSmall {
+  font-size: 250%;
+}
+
+span.pubTitle {
+  font-size: 150%;
+  color: red;
+  display: inline;
+}
